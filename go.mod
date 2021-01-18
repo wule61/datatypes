@@ -4,6 +4,7 @@ go 1.14
 
 require (
 	github.com/jinzhu/now v1.1.1
+	github.com/twpayne/go-geom v1.3.6
 	gorm.io/driver/mysql v1.0.3
 	gorm.io/driver/postgres v1.0.6
 	gorm.io/driver/sqlite v1.1.4
